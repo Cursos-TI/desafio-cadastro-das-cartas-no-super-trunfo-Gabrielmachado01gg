@@ -1,0 +1,30 @@
+=== Cadastro Carta 1 ===
+Nome do país: Brasil
+População: 210000000
+Área (km²): 8516000
+PIB (em bilhões): 2000
+Pontos turísticos: 50
+
+=== Cadastro Carta 2 ===
+Nome do país: Argentina
+População: 45000000
+Área (km²): 2780000
+PIB (em bilhões): 500
+Pontos turísticos: 40
+
+=== Escolha do Primeiro Atributo ===
+1 - População
+2 - Área
+3 - PIB
+4 - Pontos Turísticos
+5 - Densidade Demográfica
+Opção: 3
+
+=== Escolha do Segundo Atributo ===
+1 - População
+2 - Área
+4 - Pontos Turísticos
+5 - Densidade Demográfica
+Opção: 5
+
+Resultado final: Brasil venceu!
